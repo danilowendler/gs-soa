@@ -134,7 +134,7 @@ docs/                  # roteiro de testes, checklist, evidências
 | Totem (Wokwi) | Physical Computing: IOT & IOB | [link do Wokwi] | [Nome] |
 | API principal | C# Software Development | https://github.com/danilowendler/gs-c- | Italo Caliari Silva |
 | **Serviço de previsão** | **SOA e Web Services** | **https://github.com/danilowendler/gs-soa** | **Italo Caliari Silva** |
-| Modelo de ML | Inteligência Artificial & Machine Learning | [link] | Danilo Gronski Wendler |
+| Modelo de ML | Inteligência Artificial & Machine Learning | https://github.com/danilowendler/GS-IA-ML | Danilo Gronski Wendler |
 | App | Mobile Development & IOT | https://github.com/danilowendler/Global-Solution-Refresca---Mobile | Danilo Gronski Wendler |
 | Infraestrutura Linux | Operating Systems | [link] | [Nome] |
 | Segurança e PII | Cybersecurity | entregue em ZIP | [Nome] |
