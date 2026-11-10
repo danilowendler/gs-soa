@@ -1,0 +1,44 @@
+{
+  "dataPrevista": "2026-11-20",
+  "dias": [
+    {
+      "dia": "2026-11-17",
+      "tempMax": 30.1,
+      "tempMin": 18.2,
+      "tempMedia": 23.5,
+      "umidMedia": 62.0,
+      "umidMin": 38.0,
+      "indiceCalorMax": 30.8,
+      "pressaoMedia": 924.6,
+      "radiacaoTotal": 21500,
+      "precipTotal": 0.0,
+      "ventoMedio": 2.0
+    },
+    {
+      "dia": "2026-11-18",
+      "tempMax": 31.8,
+      "tempMin": 19.0,
+      "tempMedia": 24.6,
+      "umidMedia": 58.0,
+      "umidMin": 35.0,
+      "indiceCalorMax": 32.4,
+      "pressaoMedia": 923.9,
+      "radiacaoTotal": 23100,
+      "precipTotal": 0.0,
+      "ventoMedio": 1.8
+    },
+    {
+      "dia": "2026-11-19",
+      "tempMax": 33.0,
+      "tempMin": 19.8,
+      "tempMedia": 25.4,
+      "umidMedia": 55.0,
+      "umidMin": 31.0,
+      "indiceCalorMax": 33.9,
+      "pressaoMedia": 923.1,
+      "radiacaoTotal": 24000,
+      "precipTotal": 0.0,
+      "ventoMedio": 2.1
+    }
+  ]
+}

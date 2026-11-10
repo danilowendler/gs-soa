@@ -1,0 +1,63 @@
+{
+  "versao": "1.0",
+  "xgboost": "3.4.1",
+  "scikit_learn": "1.9.1",
+  "estacao": "A701",
+  "periodo_dados": "2019-01-03 a 2025-12-30",
+  "limite_perigo_indice_calor_c": 32.0,
+  "limiar_alerta": 0.46,
+  "variaveis": [
+    "temp_max",
+    "temp_min",
+    "temp_media",
+    "umid_media",
+    "umid_min",
+    "ic_max",
+    "pressao_media",
+    "radiacao_total",
+    "precip_total",
+    "vento_medio",
+    "perigoso_hoje",
+    "temp_max_ontem",
+    "temp_max_anteontem",
+    "ic_max_ontem",
+    "ic_max_anteontem",
+    "umid_media_ontem",
+    "umid_media_anteontem",
+    "temp_min_ontem",
+    "temp_min_anteontem",
+    "temp_max_media_3d",
+    "ic_max_media_3d",
+    "dias_perigosos_3d",
+    "var_pressao",
+    "var_temp_max",
+    "sazon_sen",
+    "sazon_cos"
+  ],
+  "melhores_hiperparametros": {
+    "learning_rate": 0.03,
+    "max_depth": 2,
+    "n_estimators": 100,
+    "scale_pos_weight": 5.06
+  },
+  "metricas_teste": {
+    "acurácia": 0.91,
+    "precisão": 0.446,
+    "recall": 0.661,
+    "F1": 0.532,
+    "F2": 0.603,
+    "ROC AUC": 0.911,
+    "PR AUC": 0.463,
+    "alertas emitidos": 83.0
+  },
+  "metricas_treino": {
+    "acurácia": 0.954,
+    "precisão": 0.439,
+    "recall": 0.806,
+    "F1": 0.568,
+    "F2": 0.691,
+    "ROC AUC": 0.975,
+    "PR AUC": 0.642,
+    "alertas emitidos": 123.0
+  }
+}

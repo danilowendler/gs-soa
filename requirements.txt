@@ -1,0 +1,12 @@
+fastapi>=0.115
+uvicorn>=0.30
+sqlalchemy>=2.0
+alembic>=1.13
+pydantic>=2.7
+python-dotenv>=1.0
+# Modelo de ML: versões fixas. O mesmo modelo dá probabilidades diferentes em outras
+# versões do XGBoost (testado: 0,70 no 3.4.1 contra 0,90 no 3.0.5 para o mesmo dia).
+# O xgboost 3.4 exige Python 3.12 ou mais recente.
+xgboost==3.4.1
+pandas==3.0.5
+numpy==2.5.3
