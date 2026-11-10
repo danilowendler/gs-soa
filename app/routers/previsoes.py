@@ -15,8 +15,7 @@ NAO_ENCONTRADA = {404: {"model": ErroResposta, "description": "Previsão não en
     response_model=PrevisaoSaida,
     status_code=201,
     summary="Prever se o dia será de calor perigoso",
-    description="Recebe as observações de ontem, calcula a probabilidade, grava a previsão e a devolve. "
-    "Chamado pela API principal (C#).",
+    description="Recebe o clima de anteontem, ontem e hoje, calcula a probabilidade com o modelo de ML, grava a previsão e a devolve. ",
 )
 def criar_previsao(entrada: PrevisaoEntrada, service: PrevisaoService = Depends(get_service)):
     return service.prever(entrada)
