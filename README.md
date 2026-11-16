@@ -136,8 +136,8 @@ docs/                  # roteiro de testes, checklist, evidências
 | **Serviço de previsão** | **SOA e Web Services** | **https://github.com/danilowendler/gs-soa** | **Italo Caliari Silva** |
 | Modelo de ML | Inteligência Artificial & Machine Learning | https://github.com/danilowendler/GS-IA-ML | Danilo Gronski Wendler |
 | App | Mobile Development & IOT | https://github.com/danilowendler/Global-Solution-Refresca---Mobile | Danilo Gronski Wendler |
-| Infraestrutura Linux | Operating Systems | [link] | [Nome] |
-| Segurança e PII | Cybersecurity | entregue em ZIP | [Nome] |
+| Infraestrutura Linux | Operating Systems | https://github.com/JulioZequin/citizentech-os | Júlio César Ruiz Zequin |
+| Segurança e PII | Cybersecurity | entregue em ZIP | Danilo Gronski Wendler |
 | Features e testes | Testing, Compliance & QA | [link do Azure Boards] | [Nome] |
 
 ---
