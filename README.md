@@ -131,14 +131,16 @@ docs/                  # roteiro de testes, checklist, evidências
 
 | Parte | Disciplina | Repositório | Responsável |
 | --- | --- | --- | --- |
-| Totem (Wokwi) | Physical Computing: IOT & IOB | [link do Wokwi] | [Nome] |
+| Totem (Wokwi) | Physical Computing: IOT & IOB | https://wokwi.com/projects/480871767618880513 | Danilo Gronski Wendler |
 | API principal | C# Software Development | https://github.com/danilowendler/gs-c- | Italo Caliari Silva |
 | **Serviço de previsão** | **SOA e Web Services** | **https://github.com/danilowendler/gs-soa** | **Italo Caliari Silva** |
 | Modelo de ML | Inteligência Artificial & Machine Learning | https://github.com/danilowendler/GS-IA-ML | Danilo Gronski Wendler |
 | App | Mobile Development & IOT | https://github.com/danilowendler/Global-Solution-Refresca---Mobile | Danilo Gronski Wendler |
 | Infraestrutura Linux | Operating Systems | https://github.com/JulioZequin/citizentech-os | Júlio César Ruiz Zequin |
 | Segurança e PII | Cybersecurity | entregue em ZIP | Danilo Gronski Wendler |
-| Features e testes | Testing, Compliance & QA | [link do Azure Boards] | [Nome] |
+| Features e testes | Testing, Compliance & QA | [Azure Boards](https://dev.azure.com/RM554676/GS%20Refresca/_backlogs/backlog/GS%20Refresca%20Team/Epics) | Júlio César Ruiz Zequin |
+
+**Pitch da Refresca:** https://www.youtube.com/watch?v=rs1LgeZJg0M
 
 ---
 
